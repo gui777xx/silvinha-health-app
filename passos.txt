@@ -11,3 +11,4 @@ Executar o projeto
 
  Restaurar um projeto apos clonar;
  npm i
+ 
